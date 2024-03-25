@@ -1,0 +1,9 @@
+.ui.menu.ana-menu {
+  background-color: transparent;
+  box-shadow: none;
+  border: 0;
+}
+.ui.menu.ana-menu .item {
+  color: #fff;
+  font-size: 1.8em;
+}
