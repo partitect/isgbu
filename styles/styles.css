@@ -7,3 +7,12 @@
   color: #fff;
   font-size: 1.8em;
 }
+
+.slider img{max-height: 350px;
+width: 100%;object-fit: cover;}
+.uyarlar-b1v{
+  margin-top: 150px!important;
+}
+.news-group{
+  margin-right: 10px!important;
+}
